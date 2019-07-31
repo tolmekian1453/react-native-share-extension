@@ -1,4 +1,7 @@
 # React Native Share Extension
+# Edited to work with the iOS news app and probably other news apps
+# use (await ShareExtension.data()).url , or .text if you want the title
+# Android behavior is the same as before
 
 This is a helper module which brings react native as an engine to drive share extension for your app.
 
